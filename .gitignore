@@ -1,0 +1,8 @@
+.venv/
+node_modules/
+.sixth/
+__pycache__/
+.vscode/
+*.class
+*.exe
+orders/
