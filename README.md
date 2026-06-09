@@ -1,7 +1,6 @@
 # ADVANCE-PROGRAMMING-ASSIGNMENTS
 
-A collection of programming assignments (1 to 19) for the Advanced Programming course, covering Java, Python, C, and ReactJS/React Native.
-
+programming assignments (1 to 19) for the Advanced Programming course
 ---
 
 ## Assignment Index & Questions
